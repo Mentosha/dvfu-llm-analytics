@@ -1,0 +1,22 @@
+name: dvfu-analytics-bot
+
+services:
+  bot:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: dvfu-analytics-bot
+    env_file: .env
+    restart: unless-stopped
+    mem_limit: 512m
+    cpus: 1.0
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD-SHELL", "pgrep -f 'python -m bot.main' >/dev/null || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3

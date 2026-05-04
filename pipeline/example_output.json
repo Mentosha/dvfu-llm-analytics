@@ -1,0 +1,859 @@
+[
+  {
+    "id": "1",
+    "extracted": {
+      "brand": "Arc'teryx",
+      "model": "Beta LT Jacket",
+      "category": "apparel",
+      "price_value": 2028.0,
+      "currency": "CNY",
+      "color": "blue",
+      "size": null,
+      "material": null,
+      "gender": "unknown",
+      "condition": "new",
+      "key_features": [
+        "Poizon verified",
+        "Authentic"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 368,
+      "output_tokens": 116
+    },
+    "source": {
+      "raw_title": "[现货] Arc'teryx Beta LT Jacket Black Sapphire dark blue",
+      "raw_price": "2028 CNY"
+    }
+  },
+  {
+    "id": "2",
+    "extracted": {
+      "brand": "Fear of God",
+      "model": "ESSENTIALS HOODIE",
+      "category": "apparel",
+      "price_value": 326.0,
+      "currency": "CNY",
+      "color": "black",
+      "size": "M",
+      "material": null,
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "Stretch Limo",
+        "new in box",
+        "stock from mainland China"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 371,
+      "output_tokens": 129
+    },
+    "source": {
+      "raw_title": "ESSENTIALS FEAR OF GOD HOODIE - Stretch Limo (black)",
+      "raw_price": "326 CNY"
+    }
+  },
+  {
+    "id": "3",
+    "extracted": {
+      "brand": "Prada",
+      "model": "Re-Edition 2005",
+      "category": "bag",
+      "price_value": 42788.0,
+      "currency": "RUB",
+      "color": "black",
+      "size": null,
+      "material": "nylon",
+      "gender": "female",
+      "condition": "new",
+      "key_features": [
+        "100% authentic",
+        "Poizon verified"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 375,
+      "output_tokens": 126
+    },
+    "source": {
+      "raw_title": "PRADA RE-EDITION 2005 NYLON - Black (black)",
+      "raw_price": "42788 RUB"
+    }
+  },
+  {
+    "id": "4",
+    "extracted": {
+      "brand": "The North Face",
+      "model": "Nuptse 700 Fill",
+      "category": "apparel",
+      "price_value": 1253.0,
+      "currency": "CNY",
+      "color": "black",
+      "size": "L",
+      "material": null,
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "700 Fill",
+        "New in box",
+        "Full set: box, spare laces, receipt"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 381,
+      "output_tokens": 138
+    },
+    "source": {
+      "raw_title": "The North Face Nuptse 700 Fill TNF Black",
+      "raw_price": "1253元"
+    }
+  },
+  {
+    "id": "5",
+    "extracted": {
+      "brand": "Yeezy",
+      "model": "Slide Bone",
+      "category": "sneakers",
+      "price_value": 205.66,
+      "currency": "USD",
+      "color": "beige",
+      "size": "US 8.5",
+      "material": null,
+      "gender": "female",
+      "condition": "new",
+      "key_features": [
+        "Поставка из Китая через Dewu"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 365,
+      "output_tokens": 119
+    },
+    "source": {
+      "raw_title": "Yeezy Slide Bone",
+      "raw_price": "USD 205.66"
+    }
+  },
+  {
+    "id": "6",
+    "extracted": {
+      "brand": "Apple",
+      "model": "AirPods Pro 2",
+      "category": "accessory",
+      "price_value": 2977.0,
+      "currency": "CNY",
+      "color": "white",
+      "size": null,
+      "material": null,
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "USB-C",
+        "Original 100%",
+        "Dewu check attached"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 371,
+      "output_tokens": 130
+    },
+    "source": {
+      "raw_title": "AirPods Pro 2 USB-C",
+      "raw_price": "￥2977.00"
+    }
+  },
+  {
+    "id": "7",
+    "extracted": {
+      "brand": "Apple",
+      "model": "Watch Ultra 2",
+      "category": "accessory",
+      "price_value": 48862.0,
+      "currency": "RUB",
+      "color": "silver",
+      "size": null,
+      "material": "Titanium",
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "Titanium case",
+        "New in box",
+        "SneakerCheck verified"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 366,
+      "output_tokens": 126
+    },
+    "source": {
+      "raw_title": "[现货] Apple Watch Ultra 2 Titanium silver",
+      "raw_price": "48862 RUB"
+    }
+  },
+  {
+    "id": "8",
+    "extracted": {
+      "brand": "Asics",
+      "model": "Gel-1130",
+      "category": "sneakers",
+      "price_value": 40525.0,
+      "currency": "RUB",
+      "color": "cream",
+      "size": "US 12.5",
+      "material": null,
+      "gender": "male",
+      "condition": "new",
+      "key_features": [
+        "Cream Pink colorway",
+        "Men's model",
+        "Sourced from China via Dewu"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 376,
+      "output_tokens": 140
+    },
+    "source": {
+      "raw_title": "Asics Gel-1130 Cream Pink",
+      "raw_price": "40525 RUB"
+    }
+  },
+  {
+    "id": "9",
+    "extracted": {
+      "brand": "Salomon",
+      "model": "XT-6",
+      "category": "sneakers",
+      "price_value": 361.2,
+      "currency": "USD",
+      "color": "black",
+      "size": null,
+      "material": null,
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "Phantom Black colorway",
+        "100% authentic",
+        "DEWU receipt included"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 369,
+      "output_tokens": 128
+    },
+    "source": {
+      "raw_title": "Salomon XT-6 'Phantom Black'",
+      "raw_price": "361.2$"
+    }
+  },
+  {
+    "id": "10",
+    "extracted": {
+      "brand": "Prada",
+      "model": "Re-Edition 2005",
+      "category": "bag",
+      "price_value": 87600.0,
+      "currency": "RUB",
+      "color": "black",
+      "size": null,
+      "material": "nylon",
+      "gender": "female",
+      "condition": "new",
+      "key_features": [
+        "Limited release",
+        "Nylon material",
+        "Includes box and tags"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 371,
+      "output_tokens": 129
+    },
+    "source": {
+      "raw_title": "Prada Re-Edition 2005 Nylon Black",
+      "raw_price": "87600 ₽"
+    }
+  },
+  {
+    "id": "11",
+    "extracted": {
+      "brand": "Jordan",
+      "model": "4 Retro 'Bred'",
+      "category": "sneakers",
+      "price_value": 54950.0,
+      "currency": "RUB",
+      "color": "red",
+      "size": "EU38",
+      "material": null,
+      "gender": "male",
+      "condition": "used",
+      "key_features": [
+        "new in box",
+        "worn a couple of times",
+        "no visible defects"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 369,
+      "output_tokens": 129
+    },
+    "source": {
+      "raw_title": "Jordan 4 Retro 'Bred'",
+      "raw_price": "54950 руб."
+    }
+  },
+  {
+    "id": "12",
+    "extracted": {
+      "brand": "Patagonia",
+      "model": "Synchilla Snap-T",
+      "category": "apparel",
+      "price_value": 1829.0,
+      "currency": "CNY",
+      "color": "brown",
+      "size": "M",
+      "material": "fleece",
+      "gender": "unisex",
+      "condition": "used",
+      "key_features": [
+        "Synchilla fleece",
+        "Snap-T closure",
+        "Oatmeal colorway",
+        "Used, good condition",
+        "NIB (New In Box)"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 373,
+      "output_tokens": 152
+    },
+    "source": {
+      "raw_title": "PATAGONIA SYNCHILLA SNAP-T - Oatmeal (brown)",
+      "raw_price": "1829 CNY"
+    }
+  },
+  {
+    "id": "13",
+    "extracted": {
+      "brand": "Adidas",
+      "model": "Yeezy Boost 350 V2 Zebra",
+      "category": "sneakers",
+      "price_value": 1737.0,
+      "currency": "CNY",
+      "color": "black",
+      "size": "EU38",
+      "material": null,
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "new in box",
+        "with all stickers and tags"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 385,
+      "output_tokens": 128
+    },
+    "source": {
+      "raw_title": "[现货] Adidas Yeezy Boost 350 V2 Zebra black",
+      "raw_price": "1737 CNY"
+    }
+  },
+  {
+    "id": "14",
+    "extracted": {
+      "brand": "Patagonia",
+      "model": "Synchilla Snap-T",
+      "category": "apparel",
+      "price_value": 1967.0,
+      "currency": "CNY",
+      "color": "brown",
+      "size": "M",
+      "material": "Synchilla",
+      "gender": "male",
+      "condition": "new",
+      "key_features": [
+        "Snap-T style",
+        "Oatmeal colorway",
+        "Comes with box"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 370,
+      "output_tokens": 137
+    },
+    "source": {
+      "raw_title": "Patagonia Synchilla Snap-T Oatmeal | size M",
+      "raw_price": "￥1967.00"
+    }
+  },
+  {
+    "id": "15",
+    "extracted": {
+      "brand": "Onitsuka Tiger",
+      "model": "Mexico 66",
+      "category": "sneakers",
+      "price_value": 4079.0,
+      "currency": "CNY",
+      "color": "blue",
+      "size": "EU45",
+      "material": null,
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "new in box",
+        "condition 9.5/10"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 378,
+      "output_tokens": 131
+    },
+    "source": {
+      "raw_title": "Onitsuka Tiger Mexico 66 White Blue",
+      "raw_price": "￥4079.00"
+    }
+  },
+  {
+    "id": "16",
+    "extracted": {
+      "brand": "Onitsuka Tiger",
+      "model": "Mexico 66",
+      "category": "sneakers",
+      "price_value": 3471.0,
+      "currency": "CNY",
+      "color": "white",
+      "size": "EU 42 / US 9.5",
+      "material": null,
+      "gender": "male",
+      "condition": "used",
+      "key_features": []
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 379,
+      "output_tokens": 115
+    },
+    "source": {
+      "raw_title": "Onitsuka Tiger Mexico 66 White Blue",
+      "raw_price": "￥3471.00"
+    }
+  },
+  {
+    "id": "17",
+    "extracted": {
+      "brand": "Adidas",
+      "model": "Samba OG",
+      "category": "sneakers",
+      "price_value": 2532.0,
+      "currency": "CNY",
+      "color": "white",
+      "size": null,
+      "material": null,
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "Limited release",
+        "Cloud White colorway",
+        "Includes box and tags",
+        "Shipped from Shanghai"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 363,
+      "output_tokens": 132
+    },
+    "source": {
+      "raw_title": "ADIDAS SAMBA OG - Cloud White (black)",
+      "raw_price": "¥2532"
+    }
+  },
+  {
+    "id": "18",
+    "extracted": {
+      "brand": "Goyard",
+      "model": "St. Louis PM Tote",
+      "category": "bag",
+      "price_value": 1002.12,
+      "currency": "USD",
+      "color": "black",
+      "size": null,
+      "material": null,
+      "gender": "female",
+      "condition": "new",
+      "key_features": [
+        "new in box",
+        "air delivery from Shanghai"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 377,
+      "output_tokens": 121
+    },
+    "source": {
+      "raw_title": "Goyard St. Louis PM Tote Black",
+      "raw_price": "$1002.12"
+    }
+  },
+  {
+    "id": "19",
+    "extracted": {
+      "brand": "Adidas",
+      "model": "Yeezy Boost 350 V2 Zebra",
+      "category": "sneakers",
+      "price_value": 14188.0,
+      "currency": "RUB",
+      "color": "white",
+      "size": "EU41",
+      "material": null,
+      "gender": "unisex",
+      "condition": "used",
+      "key_features": [
+        "Stock from mainland China"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 382,
+      "output_tokens": 120
+    },
+    "source": {
+      "raw_title": "Adidas Yeezy Boost 350 V2 Zebra | size EU41",
+      "raw_price": "14188руб"
+    }
+  },
+  {
+    "id": "20",
+    "extracted": {
+      "brand": "Adidas",
+      "model": "Samba OG",
+      "category": "sneakers",
+      "price_value": 117.32,
+      "currency": "USD",
+      "color": "white",
+      "size": "EU 41 / US 8.5",
+      "material": null,
+      "gender": "male",
+      "condition": "new",
+      "key_features": [
+        "Cloud White colorway",
+        "OG model"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 366,
+      "output_tokens": 126
+    },
+    "source": {
+      "raw_title": "Adidas Samba OG 'Cloud White'",
+      "raw_price": "$117.32"
+    }
+  },
+  {
+    "id": "21",
+    "extracted": {
+      "brand": "Adidas",
+      "model": "Samba OG",
+      "category": "sneakers",
+      "price_value": 32425.0,
+      "currency": "RUB",
+      "color": "white",
+      "size": null,
+      "material": null,
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "Cloud White colorway",
+        "Original product",
+        "Dewu authenticity check",
+        "Shipped from Moscow"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 368,
+      "output_tokens": 132
+    },
+    "source": {
+      "raw_title": "[现货] Adidas Samba OG Cloud White black",
+      "raw_price": "32425руб"
+    }
+  },
+  {
+    "id": "22",
+    "extracted": {
+      "brand": "Nike",
+      "model": "Air Force 1 '07",
+      "category": "sneakers",
+      "price_value": 40962.0,
+      "currency": "RUB",
+      "color": "white",
+      "size": "EU42",
+      "material": null,
+      "gender": "male",
+      "condition": "new",
+      "key_features": [
+        "Triple White",
+        "Dewu authentication"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 381,
+      "output_tokens": 121
+    },
+    "source": {
+      "raw_title": "Nike Air Force 1 '07 Triple White | size EU42",
+      "raw_price": "40962руб"
+    }
+  },
+  {
+    "id": "23",
+    "extracted": {
+      "brand": "Stussy",
+      "model": "Basic Logo Tee 'Pigment Black'",
+      "category": "apparel",
+      "price_value": 835.0,
+      "currency": "CNY",
+      "color": "black",
+      "size": "S",
+      "material": null,
+      "gender": "male",
+      "condition": "new",
+      "key_features": [
+        "Pigment Black colorway",
+        "Basic Logo design",
+        "New condition",
+        "9.5/10 condition rating"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 373,
+      "output_tokens": 143
+    },
+    "source": {
+      "raw_title": "Stussy Basic Logo Tee 'Pigment Black'",
+      "raw_price": "￥835.00"
+    }
+  },
+  {
+    "id": "24",
+    "extracted": {
+      "brand": "Comme des Garçons",
+      "model": "Play Tee",
+      "category": "apparel",
+      "price_value": 906.0,
+      "currency": "CNY",
+      "color": "white",
+      "size": "S",
+      "material": null,
+      "gender": "unisex",
+      "condition": "used",
+      "key_features": [
+        "Stock from mainland China"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 371,
+      "output_tokens": 112
+    },
+    "source": {
+      "raw_title": "[现货] Comme des Garçons Play Tee White white",
+      "raw_price": "906元"
+    }
+  },
+  {
+    "id": "25",
+    "extracted": {
+      "brand": "Apple",
+      "model": "Watch Ultra 2",
+      "category": "accessory",
+      "price_value": 233.24,
+      "currency": "USD",
+      "color": "silver",
+      "size": null,
+      "material": "Titanium",
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "Titanium",
+        "Authentic",
+        "Poizon verified"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 365,
+      "output_tokens": 124
+    },
+    "source": {
+      "raw_title": "[现货] Apple Watch Ultra 2 Titanium silver",
+      "raw_price": "USD 233.24"
+    }
+  },
+  {
+    "id": "26",
+    "extracted": {
+      "brand": "Louis Vuitton",
+      "model": "Pochette Métis",
+      "category": "bag",
+      "price_value": 23951.0,
+      "currency": "CNY",
+      "color": "brown",
+      "size": null,
+      "material": "Monogram",
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "Monogram canvas",
+        "Pochette Métis model",
+        "Unisex design",
+        "Shipped from China via Dewu"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 369,
+      "output_tokens": 144
+    },
+    "source": {
+      "raw_title": "LV Pochette Métis Monogram",
+      "raw_price": "¥23951"
+    }
+  },
+  {
+    "id": "27",
+    "extracted": {
+      "brand": "Casio",
+      "model": "G-Shock GA-2100 Casioak",
+      "category": "accessory",
+      "price_value": 7412.0,
+      "currency": "RUB",
+      "color": "black",
+      "size": null,
+      "material": null,
+      "gender": "unknown",
+      "condition": "used",
+      "key_features": [
+        "used in good condition",
+        "condition 9.5/10"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 385,
+      "output_tokens": 129
+    },
+    "source": {
+      "raw_title": "[现货] Casio G-Shock GA-2100 Casioak black",
+      "raw_price": "7412 RUB"
+    }
+  },
+  {
+    "id": "28",
+    "extracted": {
+      "brand": "Salomon",
+      "model": "XT-6",
+      "category": "sneakers",
+      "price_value": 614.88,
+      "currency": "USD",
+      "color": "black",
+      "size": "EU42",
+      "material": null,
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "Original 100%",
+        "DEWU receipt included"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 373,
+      "output_tokens": 124
+    },
+    "source": {
+      "raw_title": "Salomon XT-6 Phantom Black | size EU42",
+      "raw_price": "614.88$"
+    }
+  },
+  {
+    "id": "29",
+    "extracted": {
+      "brand": "Nike",
+      "model": "Air Force 1 '07",
+      "category": "sneakers",
+      "price_value": 1578.0,
+      "currency": "CNY",
+      "color": "white",
+      "size": "EU43",
+      "material": null,
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "Triple White",
+        "100% authentic",
+        "Poizon verified"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 372,
+      "output_tokens": 131
+    },
+    "source": {
+      "raw_title": "Nike Air Force 1 '07 Triple White | size EU43",
+      "raw_price": "1578 CNY"
+    }
+  },
+  {
+    "id": "30",
+    "extracted": {
+      "brand": "Onitsuka Tiger",
+      "model": "Mexico 66",
+      "category": "sneakers",
+      "price_value": 44138.0,
+      "currency": "RUB",
+      "color": "white",
+      "size": null,
+      "material": null,
+      "gender": "unisex",
+      "condition": "new",
+      "key_features": [
+        "Limited release",
+        "Box+tags",
+        "Shipped from Shanghai"
+      ]
+    },
+    "error": null,
+    "usage": {
+      "input_tokens": 368,
+      "output_tokens": 129
+    },
+    "source": {
+      "raw_title": "Onitsuka Tiger Mexico 66 White Blue",
+      "raw_price": "44138 руб."
+    }
+  }
+]
